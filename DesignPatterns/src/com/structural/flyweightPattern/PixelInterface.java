@@ -1,4 +1,4 @@
-package com.structural.FlyweightPattern;
+package com.structural.flyweightPattern;
 
 public interface PixelInterface {
 
